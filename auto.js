@@ -5,5 +5,5 @@ const options = ['Puas', 'Ya', 'Setuju'];
       .getElementsByClassName('answerlist2')[0]
       .children[0].click();
   }
-	$('[name="button"]').click();
+$('[name="button"]').click();
 });
